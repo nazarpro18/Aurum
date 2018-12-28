@@ -1,0 +1,36 @@
+[
+    {
+        "id": "1",
+        "title": "Apple Macbook Pro 13.3-lnch",
+        "image": "apple-macbook-pro-13.3",
+        "description": "2.7 GHz Dual-Core Intel Core i5 Processor (Turbo Boost up to 3.1 GHz, 3 MB shared L3 cache) 
+        8 GB 1866 MHz DDR3L RAM; 128 GB PCIe-based Flash Storage 
+        13.3-inch IPS Retina Display, 2560-by-1600 resolution
+    Intel Iris Graphics, Force Touch Trackpad
+    Up to 9 Hours of Battery Life. Maximum expandable Ram memory: 8 GB
+    2.7 GHz Intel Core i5 (Broadwell)8GB of Onboard 1866 MHz LPDDR3 RAM
+    128GB PCIe-Based Flash StorageIntegrated Intel Iris Graphics 6100.",
+        "price": 640.99
+    },
+    {
+        "id": "2",
+        "title": "Apple Macbook Pro 13.3-lnch 256g",
+        "image": "apple-macbook-pro-256g",
+        "description": "Renewed products look and work like new. These pre-owned products have been inspected and tested by Amazon-qualified suppliers, which typically perform a full diagnostic test, replacement of any defective parts, and a thorough cleaning process. Packaging and accessories may be generic. All products on Amazon Renewed come with a minimum 90-day supplier-backed warranty.
+2.7 GHz dual-core Intel Core i5 processor (Turbo Boost up to 3.1 GHz) with 3MB shared L3 cache
+8 GB 1866 MHz LPDDR3 RAM; 256 GB PCIe-based flash storage
+13.3-inch IPS Retina Display, 2560-by-1600 resolution",
+        "price": 899.99
+    },
+    {
+        "id": "3",
+        "title": "Apple Macbook Pro 15.4-lnch",
+        "image": "apple-macbook-pro-15.4",
+        "description": "2.2 GHz Quad-Core Intel Core i7 Processor (Turbo Boost up to 3.4 GHz, 6 MB shared L3 cache)
+16 GB 1600 MHz DDR3L RAM; 256 GB PCIe-based Flash Storage
+15.4-inch IPS Retina Display, 2880-by-1800 resolution
+Intel Iris Pro Graphics
+OS X Mavericks, Up to 8 Hours of Battery Life",
+        "price": 869.99
+    }
+]
